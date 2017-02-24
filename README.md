@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(February 24, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Chelsea Mohammed)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(This assignment uses conditional statements and resusable code with functions, as well as array objects to create a tax calculator that calculates users' taxable income and tax bracket.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://mchelsea.github.io/lesson5_javascript2/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (I learned how to create nested conditional statements.)
+2. (I learned how to refer to an element by its ID.)
+3. (I learned how to build an array and refer to objects within the array.)
