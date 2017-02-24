@@ -10,7 +10,7 @@ LIS 2360:  Web Application Development
 (Chelsea Mohammed)
 
 ### Project Description:
-(This assignment uses conditional statements and resusable code with functions, as well as array objects to create a tax calculator that calculates users' taxable income and tax bracket.)
+(This assignment uses conditional statements and resusable code with functions, as well as array objects to create a tax calculator that calculates users' tax bracket.)
 
 ### View Project:
 (https://mchelsea.github.io/lesson5_javascript2/)
